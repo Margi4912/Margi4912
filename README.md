@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Margi4912/Margi4912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 *Python developer, interested in Backend.*
 
-Here are some ideas to get you started:
+#🔧 My Hard Skiills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>- Python, OOP, algorithms
+<br>- Telegram, pyrogram
+<br>- PyGame
+<br>- Flask, REST API
+<br>- SQLite
+
+#📌 My projects:
+<br>- [Small game in Python] - https://github.com/Margi4912/game
+<br>- [Experimentally practiced site] - https://github.com/Margi4912/site
+<br>- [Simple Image Identifier for two things] - https://github.com/Margi4912/simple-image-identifier
